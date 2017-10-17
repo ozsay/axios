@@ -72,7 +72,7 @@
   },
   "typings": "./index.d.ts",
   "dependencies": {
-    "follow-redirects": "^1.2.3",
+    "follow-redirects": "https://github.com/ozsay/follow-redirects/archive/afddb673ba7340f9c076e74b18fccb188148492d.tar.gz",
     "is-buffer": "^1.1.5"
   }
 }
